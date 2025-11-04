@@ -1,0 +1,5 @@
+Game_name:闺蜜闺蜜想不想和我玩烤鱼;
+Game_key:177b0d1deefb4a4;
+Title_img:群.png;
+Title_bgm:immature.ogg;
+Textbox_theme:imss;
